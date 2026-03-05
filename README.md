@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/license-MIT-blue)
 
 > **UNFinder** is a high-performance object lookup framework for Unity that replaces
-> **`GameObject.Find`** and **`GetComponent`** with **O(1)** constant-time access.
+> **`GameObject.Find`** and **`GetComponent`** with **O(1)** constant-time access.  
 
 By combining **string hashing**, **pure C# memory dictionaries**, and
 **`ConditionalWeakTable`**, UNFinder enables **zero-allocation object lookup**
@@ -13,6 +13,10 @@ while avoiding Unity’s native C++ marshalling overhead.
 During the build process, the SDK automatically injects hidden trackers into scenes.
 Developers can continue using familiar lookup patterns while internally benefiting from
 a fully cached runtime registry.
+
+<img width="798" height="85" alt="image" src="https://github.com/user-attachments/assets/5f04341e-a445-4614-aae7-43d25f632744" />
+
+``https://github.com/NightWish-0827/UNFinder.git`` UPM Add package from git URL 
 
 ---
 
