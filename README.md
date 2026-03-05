@@ -160,6 +160,8 @@ due to **O(N) hierarchy traversal**.
 
 UNFinder maintains **constant-time O(1) lookup** regardless of scene size.
 
+<img width="1600" height="960" alt="PerformGraph" src="https://github.com/user-attachments/assets/4a7c5e16-473a-4242-a73c-625392d421a9" />
+
 ### Default Unity API
 
 * Native **C++ marshalling**
@@ -171,8 +173,3 @@ UNFinder maintains **constant-time O(1) lookup** regardless of scene size.
 * Pure **C# dictionary lookup**
 * **0 byte GC allocation**
 * Deterministic **O(1)** object retrieval
-
-# Benchmark
-
-<img width="1600" height="960" alt="PerformGraph" src="https://github.com/user-attachments/assets/4a7c5e16-473a-4242-a73c-625392d421a9" />
-
