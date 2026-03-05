@@ -16,7 +16,7 @@ a fully cached runtime registry.
 
 <img width="798" height="85" alt="image" src="https://github.com/user-attachments/assets/5f04341e-a445-4614-aae7-43d25f632744" />
 
-``https://github.com/NightWish-0827/UNFinder.git`` UPM Add package from git URL 
+``https://github.com/NightWish-0827/UNFinder.git?path=/com.nightwishlab.unfinder`` UPM Add package from git URL 
 
 ---
 
