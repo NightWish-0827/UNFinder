@@ -174,6 +174,8 @@ UNFinder maintains **constant-time O(1) lookup** regardless of scene size.
 * **0 byte GC allocation**
 * Deterministic **O(1)** object retrieval
 
+---
+
 ### In a word...  
 
 By combining VContainer operations with UE4's Actor Register method, objects are registered at the editor level.  
@@ -183,3 +185,5 @@ This is a paradigm shift that allows Find to be used with constant speed and cos
 It's easier than you think.  
  
 You should definitely try it.  
+
+---
