@@ -1,4 +1,5 @@
 # UN (Unity-Native) Fast Object Finder SDK
+## Current Version : 2.0.0  
 
 ![](https://img.shields.io/badge/unity-2021.3%2B-black)
 ![](https://img.shields.io/badge/license-MIT-blue)
